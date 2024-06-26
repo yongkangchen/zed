@@ -7359,6 +7359,7 @@ dependencies = [
  "language",
  "log",
  "menu",
+ "picker",
  "project",
  "schemars",
  "serde",
